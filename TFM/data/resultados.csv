@@ -1,0 +1,4 @@
+Algoritmo,RocAucBruto,RocAucCrossValidation,RocAucParameters,RocAucVariables,RocNormalizado
+RandomForest,0.6448,0.7819,0.7848,0.7849,0.6441
+GradientBoosting,0.6538,0.7814,0.7818,0.7814,0.6561
+SVCrbf,0.5056,0.718,0.7213,0.7212,0.6576
